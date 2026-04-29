@@ -8,7 +8,7 @@ In a large collection of text documents, some items may be off-topic, malformed,
 
 ## Dataset
 
-[20 Newsgroups](http://qwone.com/~jason/20Newsgroups/), a classic NLP benchmark consisting of around 20,000 messages from 20 different Usenet newsgroups.
+[20 Newsgroups](http://qwone.com/~jason/20Newsgroups/)
 
 - ~20,000 documents
 - 20 categories (e.g., sci.crypt, soc.religion.christian, talk.politics.mideast)
