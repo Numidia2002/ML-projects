@@ -36,4 +36,4 @@ Logistic Regression consistently outperforms Gaussian Naive Bayes on this datase
 
 ## How to Run
 
-Open `statistical_comparison.ipynb` in [Google Colab](https://colab.research.google.com/) or any Jupyter-compatible environment. The Spambase dataset is fetched automatically from OpenML, so no manual download is needed.
+Open `statistical_comparison.ipynb` in [Google Colab](https://colab.research.google.com/) environment. 
