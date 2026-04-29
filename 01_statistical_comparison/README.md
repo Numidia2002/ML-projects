@@ -33,7 +33,3 @@ Logistic Regression consistently outperforms Gaussian Naive Bayes on this datase
 - scikit-learn (`StratifiedKFold`, `cross_val_score`, `LogisticRegression`, `GaussianNB`, `StandardScaler`, `Pipeline`)
 - SciPy (`shapiro`, `ttest_rel`)
 - pandas, NumPy
-
-## How to Run
-
-Open `statistical_comparison.ipynb` in [Google Colab](https://colab.research.google.com/) environment. 
