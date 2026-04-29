@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-Machine Learning projects developed during my Master's in Language Analysis and Processing (NLP). Each project applies a different ML approach to text data, using real datasets and standard libraries from the Python ecosystem.
+Machine Learning projects developed during my Master's in NLP. Each project applies a different ML approach to text data, using real datasets and standard libraries from the Python ecosystem.
 
 ## Projects
 
@@ -17,7 +17,7 @@ Machine Learning projects developed during my Master's in Language Analysis and 
 - **Core libraries:** scikit-learn, pandas, NumPy, SciPy
 - **NLP:** NLTK (tokenization, POS tagging, WordNet lemmatization)
 - **Visualization:** matplotlib
-- **Environment:** Jupyter Notebook / Google Colab
+- **Environment:** Google Colab
 
 ## How to Run
 
