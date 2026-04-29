@@ -35,7 +35,3 @@ The model performs reasonably well given the strong class imbalance, achieving s
 - scikit-learn (`TfidfVectorizer`, `OneVsRestClassifier`, `LogisticRegression`, `f1_score`, `hamming_loss`, `classification_report`)
 - NLTK (tokenization, POS tagging, WordNet lemmatization)
 - pandas, NumPy
-
-## How to Run
-
-The notebook was developed in [Google Colab](https://colab.research.google.com/) and loads the dataset from a personal Google Drive path. To reproduce the experiment, the dataset path in the notebook needs to be adjusted to point to a local copy of the data.
