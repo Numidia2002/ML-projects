@@ -8,10 +8,10 @@ Online comments often contain multiple types of harmful content at the same time
 
 ## Dataset
 
-[Jigsaw Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data) (Wikipedia talk page comments labeled by human raters).
+A dataset of online comments annotated for toxicity. Each comment can carry one or more of the following labels: `toxic`, `severe_toxic`, `obscene`, `threat`, `insult`, `identity_hate`.
 
 - ~159,000 comments
-- 6 binary labels (not mutually exclusive): `toxic`, `severe_toxic`, `obscene`, `threat`, `insult`, `identity_hate`
+- 6 binary labels (not mutually exclusive)
 - Highly imbalanced: most comments are non-toxic, and rare classes (`threat`, `identity_hate`) appear in less than 1% of the data
 
 ## Approach
@@ -38,4 +38,4 @@ The model performs reasonably well given the strong class imbalance, achieving s
 
 ## How to Run
 
-The notebook was developed in [Google Colab](https://colab.research.google.com/) and loads the dataset from Google Drive. To reproduce, download the dataset from the [Kaggle competition page](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data), upload it to your own Drive (or local environment), and adjust the path in the notebook accordingly.
+The notebook was developed in [Google Colab](https://colab.research.google.com/) and loads the dataset from a personal Google Drive path. To reproduce the experiment, the dataset path in the notebook needs to be adjusted to point to a local copy of the data.
