@@ -8,7 +8,7 @@ Labeled data is expensive to obtain, but unlabeled data is often abundant. Can w
 
 ## Dataset
 
-[SMS Spam Collection](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) (loaded directly from a public GitHub mirror).
+[SMS Spam Collection](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
 - 5,572 SMS messages
 - Binary classification: `ham` vs. `spam`
