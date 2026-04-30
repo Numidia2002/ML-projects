@@ -19,12 +19,8 @@ Machine Learning projects developed during my Master's in NLP. Each project appl
 - **Visualization:** matplotlib
 - **Environment:** Google Colab
 
-## How to Run
 
 Each project folder contains its own README and a notebook file (`.ipynb`).
 
-The notebooks were developed in [Google Colab](https://colab.research.google.com/). To run them, upload the `.ipynb` file to Colab, or clone the repository:
-
-```bash
-git clone https://github.com/Numidia2002/ML-projects.git
+The notebooks were developed in [Google Colab]
 ```
