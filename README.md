@@ -21,5 +21,3 @@ Machine Learning projects developed during my Master's in NLP. Each project appl
 
 
 Each project folder contains its own README and a notebook file.
-
-The notebooks were developed in Google Colab.
