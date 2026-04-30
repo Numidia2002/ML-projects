@@ -6,7 +6,7 @@ Machine Learning projects developed during my Master's in NLP. Each project appl
 
 | # | Project | Topic | Dataset |
 |---|---------|-------|---------|
-| 1 | [Statistical Model Comparison](./01_statistical_comparison/) | Paired statistical comparison of two classifiers (Logistic Regression vs. Gaussian Naive Bayes) | Spambase (OpenML) |
+| 1 | [Statistical Model Comparison](./01_statistical_comparison/) | Paired statistical comparison of two classifiers (Logistic Regression vs. Gaussian Naive Bayes) | Spambase |
 | 2 | [Multi-label Classification](./02_multilabel_classification/) | One-vs-Rest multi-label text classification | Toxic Comments |
 | 3 | [Semi-Supervised Learning](./03_semisupervised_learning/) | Comparison of Self-Training and Clustering + Labeling against a supervised baseline | SMS Spam Collection |
 | 4 | [Anomaly Detection](./04_anomaly_detection/) | Outlier detection on text data using Isolation Forest and Local Outlier Factor | 20 Newsgroups |
